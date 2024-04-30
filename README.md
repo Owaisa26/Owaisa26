@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Owaisa
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently  learning Python 
+- 👀 I’m interested in data analysis & Machine learnig
+- 🌱 I’m currently working on R and  learning Python 
 - 💞️ I’m looking to collaborate on www.linkedin.com/in/owaisa-haider
 - 📫 How to reach me owaisahaider26@gmail.com
 - 😄 Pronouns: she
